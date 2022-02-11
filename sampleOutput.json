@@ -1,0 +1,186 @@
+{
+  "status": "ok",
+  "totalResults": 18,
+  "articles": [
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Manish Singh",
+      "title": "Tiger Global in talks to invest in GoMechanic at over $1 billion valuation",
+      "description": "Tiger Global is in talks to lead a new financing round in GoMechanic, an India startup that operates a network of technology-enabled automobile service centres, two sources familiar with the matter said. The proposed talks for the Gurugram-headquartered Serie…",
+      "url": "https://techcrunch.com/2022/02/09/gomechanic-tiger-global-india-auto/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/02/gomechanic-india.jpeg?w=725",
+      "publishedAt": "2022-02-10T07:16:54Z",
+      "content": "Tiger Global is in talks to lead a new financing round in GoMechanic, an India startup that operates a network of technology-enabled automobile service centres, two sources familiar with the matter s… [+1260 chars]"
+    },
+    {
+      "source": { "id": "bbc-sport", "name": "BBC Sport" },
+      "author": "BBC Sport",
+      "title": "'Golf chose me. It's the most fun thing I have'",
+      "description": "BBC Indian Sportswoman of the Year nominee Aditi Ashok came within one shot of winning an Olympic golf medal in Tokyo.",
+      "url": "http://www.bbc.co.uk/sport/av/golf/60196963",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/25F5/production/_123171790_223930c0-dfa8-4306-8caa-77d0f3f677b5.jpg",
+      "publishedAt": "2022-02-10T07:07:28.4419542Z",
+      "content": "Aditi Ashok came within one shot of winning an Olympic golf medal in Tokyo - a remarkable achievement for the 23-year old from Bengaluru.\r\nThat result capped a consistent season, with three top-10 fi… [+425 chars]"
+    },
+    {
+      "source": { "id": "google-news-in", "name": "Google News (India)" },
+      "author": "hindustantimes.com",
+      "title": "Hijab row: No SC hearing for now, Karnataka CM Bommai appeals for peace",
+      "description": "When senior advocate Kapil Sibal mentioned the matter for an urgent listing in the Supreme Court, Chief Justice of India NV Ramana said let the high court decide the first. | Latest News India",
+      "url": "https://www.hindustantimes.com/india-news/hijab-row-no-sc-hearing-for-now-karnataka-cm-bommai-appeals-for-peace-101644470910263.html",
+      "urlToImage": "https://images.hindustantimes.com/img/2022/02/10/1600x900/efbb7914-89db-11ec-bfb8-0908ee0c41d2_1644433944498_1644471220319.jpg",
+      "publishedAt": "2022-02-10T05:34:48+00:00",
+      "content": "The Supreme Court on Thursday refrained from giving a specific date for hearing a PIL, seeking a transfer of cases regarding a ban on entry of Muslim women in hijab in educational institutes from the… [+1969 chars]"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "KRUTIKA PATHI",
+      "title": "Indian state begins voting in test for Modi's Hindu politics",
+      "description": "AYODHYA, India (AP) — Under grey skies, construction cranes towered over laborers building a mega three-story temple demanded by millions of Hindus for over 100 years. The shrine is dedicated to their most revered god, Ram, and is being built on a plot of lan…",
+      "url": "https://apnews.com/080f4355d83740c64a28c1b47fc9af8b",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/bc221232a17940d3ae05bd5c94a74b73/3000.jpeg",
+      "publishedAt": "2022-02-10T05:33:12Z",
+      "content": "AYODHYA, India (AP) — Under grey skies, construction cranes towered over laborers building a mega three-story temple demanded by millions of Hindus for over 100 years. The shrine is dedicated to thei… [+7444 chars]"
+    },
+    {
+      "source": { "id": "bloomberg", "name": "Bloomberg" },
+      "author": null,
+      "title": "Indian Firms Are Difficult to Implement Green Push Compliance, ESG Rater Says",
+      "description": "",
+      "url": "https://www.bloomberg.com/news/articles/2022-02-10/esg-rater-says-green-push-compliance-tough-for-indian-companies",
+      "urlToImage": null,
+      "publishedAt": "2022-02-10T01:30:00+00:00",
+      "content": ""
+    },
+    {
+      "source": { "id": "abc-news-au", "name": "ABC News (AU)" },
+      "author": "ABC News",
+      "title": "Novak Djokovic enters Indian Wells tennis tournament despite COVID-19 vaccination being entry requirement",
+      "description": "Organisers of the prestigious Indian Wells tennis tournament say they are bound by vaccination rules from the WTA and  ATP, as well as US federal and state laws, meaning Novak Djokovic's participation is not a sure thing.",
+      "url": "http://www.abc.net.au/news/2022-02-10/novak-djokovic-enters-indian-wells-covid-vaccination/100818608",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/e8982fb09a3a172642d21945e566795c?impolicy=wcms_crop_resize&cropH=1680&cropW=2982&xPos=0&yPos=68&width=862&height=485",
+      "publishedAt": "2022-02-09T23:29:36Z",
+      "content": "Novak Djokovic is on the entry list for next month's Indian Wells tennis event in California, where \"valid proof of full vaccination [is] required for entry\".\r\n<ul><li>Novak Djokovic is set to return… [+1967 chars]"
+    },
+    {
+      "source": { "id": "al-jazeera-english", "name": "Al Jazeera English" },
+      "author": "Rushda Fathima Khan",
+      "title": "‘Targeted harassment’: Muslim girls in India denounce hijab ban",
+      "description": "Visuals of Muslim girls being shut outside college gates in Karnataka state for wearing the hijab have led to outrage.",
+      "url": "http://www.aljazeera.com/news/2022/2/9/cant-just-remove-it-protest-around-hijab-in-indias-karnataka",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/02/3.jpeg?resize=1200%2C630",
+      "publishedAt": "2022-02-09T19:19:25Z",
+      "content": "For four days a group of 28 Muslim girls stood in protest in front of the Junior Pre-University college in the Karnataka state after they were denied entry for wearing hijab an issue that has snowbal… [+6554 chars]"
+    },
+    {
+      "source": { "id": "next-big-future", "name": "Next Big Future" },
+      "author": "Brian Wang",
+      "title": "India Has Over 135 Million Obese People and Tracking to 430 Million in 2030 | NextBigFuture.com",
+      "description": "India has over 135 million obese individuals at present according to a 2020 study in Indian Journal of Community Medicine. India has the double burden of many",
+      "url": "https://www.nextbigfuture.com/2022/02/india-now-has-over-135-million-obese-people.html",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2016/04/fatpeople-1.jpg",
+      "publishedAt": "2022-02-04T17:52:06Z",
+      "content": "India has over 135 million obese individuals at present according to a 2020 study in Indian Journal of Community Medicine. India has the double burden of many under-nutrished people and many others w… [+2544 chars]"
+    },
+    {
+      "source": { "id": "the-hindu", "name": "The Hindu" },
+      "author": "Ananth Krishnan",
+      "title": "Dalai Lama’s close aides targeted on Pegasus spyware list",
+      "description": "‘Analysis indicates that the Indian govt. was selecting the potential targets’",
+      "url": "https://www.thehindu.com/news/international/dalai-lamas-close-aides-targeted-on-pegasus-spyware-list/article35474285.ece",
+      "urlToImage": "https://www.thehindu.com/news/international/dvshb0/article35474284.ece/ALTERNATES/LANDSCAPE_615/thjc-DalaiLama",
+      "publishedAt": "2021-07-22T15:47:01Z",
+      "content": "Several of the top India-based aides to the Tibetan spiritual leader, the Dalai Lama, figure on the list of potential targets for spying using the Pegasus spyware, according to a report on Thursday. … [+2399 chars]"
+    },
+    {
+      "source": { "id": "rte", "name": "RTE" },
+      "author": "RTÉ News",
+      "title": "UK continues with reopening plan despite concerns",
+      "description": "British ministers are pushing on with a major easing of restrictions on Monday despite concerns over the Indian variant of coronavirus, as they were criticised for allowing the strain's import.",
+      "url": "https://www.rte.ie/news/uk/2021/0515/1221764-uk-indian-variant/",
+      "urlToImage": "https://img.rasset.ie/0016cb40-1600.jpg",
+      "publishedAt": "2021-05-15T09:33:48Z",
+      "content": "British ministers are pushing on with a major easing of restrictions on Monday despite concerns over the Indian variant of coronavirus, as they were criticised for allowing the strain's import.\r\nPrim… [+5066 chars]"
+    },
+    {
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "Rajat Pandit",
+      "title": "Army explores procurement of 350 light tanks for mountainous terrain after border standoff with China",
+      "description": "India News:  The Army is now exploring the possibility of procuring 350 light tanks, which can also be transported by air, to augment its firepower in high-altitu",
+      "url": "http://timesofindia.indiatimes.com/india/army-explores-procurement-of-350-light-tanks-for-mountainous-terrain-after-border-standoff-with-china/articleshow/82217825.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-82217908,width-1070,height-580,imgsize-264639,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2021-04-23T08:29:00Z",
+      "content": "Army explores procurement of 350 light tanks for mountainous terrain after border standoff with China\r\n<ul><li>News</li>\r\n<li>India News</li>\r\n<li>Army explores procurement of 350 light tanks for mou… [+58 chars]"
+    },
+    {
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "Times Of India",
+      "title": "PBKS vs MI Live Score, IPL 2021: Mumbai Indians seek consistency; Punjab Kings eye return to winning ways",
+      "description": "IPL Live Score: Mumbai Indians seek consistency; Punjab Kings eye return to winning ways. Stay with TOI to get IPL live score, playing 11, scorecard, highlights and ball by ball score updates of the 17th IPL match between Punjab Kings and Mumbai Indians.",
+      "url": "http://timesofindia.indiatimes.com/sports/cricket/ipl/live-blog/punjab-kings-vs-mumbai-indians-pbks-vs-mi-live-score-ipl-2021-17th-match-chennai/liveblog/82214950.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-82214950,width-1070,height-580,imgsize-157009,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2021-04-23T05:44:49Z",
+      "content": "Ravi Bishnoi return on the cards?\r\nDeepak Hooda showed what he is capable of, but greater consistency would be needed from him if the team has to prosper. They bet on Australian pace imports Jhye Ric… [+3131 chars]"
+    },
+    {
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "PTI",
+      "title": "Zydus Cadila gets DCGI nod for hepatitis drug for Covid-19 treatment",
+      "description": "India News: Drug firm Zydus Cadila on Friday said it has received restricted emergency use approval from the Indian drug regulator for the use of Pegylated Interf",
+      "url": "http://timesofindia.indiatimes.com/india/zydus-cadila-gets-dcgi-nod-for-hepatitis-drug-for-covid-19-treatment/articleshow/82214909.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-82214921,width-1070,height-580,imgsize-98052,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2021-04-23T05:43:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "Bloomberg",
+      "title": "Even record death toll may hide extent of India’s Covid crisis",
+      "description": "India News: Bodies piling up at crematoriums and burial grounds across India are sparking concerns that the death toll from a ferocious new Covid-19 wave may be m.",
+      "url": "http://timesofindia.indiatimes.com/india/even-record-death-toll-may-hide-extent-of-indias-covid-crisis/articleshow/82213444.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-82213819,width-1070,height-580,imgsize-232887,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2021-04-23T04:41:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "Dipak K Dash",
+      "title": "Government to provide 5 kg free food grains to poor for May & June",
+      "description": "India News: The government on Friday announced to provide 5 kg free food grains to the poor for May and June 2021. This will cover nearly 80 crore beneficiaries u",
+      "url": "http://timesofindia.indiatimes.com/india/government-to-provide-5-kg-free-food-grains-to-poor-for-may-june/articleshow/82213582.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-82213583,width-1070,height-580,imgsize-1921513,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2021-04-23T04:23:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "TIMESOFINDIA.COM",
+      "title": "'Inappropriate': PM Modi objects to 'protocol break' during meeting; Delhi CM expresses regret",
+      "description": "India News: Delhi chief minister Arvind Kejriwal on Friday faced flak for sharing a live telecast of an \"in-house\" meeting with Prime Minister Narendra Modi where",
+      "url": "http://timesofindia.indiatimes.com/india/delhi-cmo-expresses-regret-over-televised-address-during-meeting-with-pm-modi/articleshow/82213159.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-82213159,width-1070,height-580,imgsize-134672,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2021-04-23T03:54:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "Times Of India",
+      "title": "Coronavirus in India live updates: Zydus' Virafin gets DCGI nod for Covid treatment",
+      "description": "In yet another grim milestone, India recorded 3.3 lakh new Covid-19 cases, and 2,263 deaths in a day. Meanwhile, active cases crossed the 24-lakh mar",
+      "url": "http://timesofindia.indiatimes.com/india/coronavirus-in-india-covid-19-vaccine-cases-lockdown-live-updates-23-april-2021/liveblog/82205841.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-82205841,width-1070,height-580,imgsize-148788,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2021-04-22T16:20:06Z",
+      "content": "Zydus Cadila gets DCGI nod for hepatitis drug for Covid-19 treatment\r\nMake Covid-19 vaccination affordable, accessible through Jan Aushadi scheme: IMA\r\nThe IMA has demanded that the Covid-19 vaccine … [+4487 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "I'm fighting my own benchmarks - R Ashwin | ESPNcricinfo.com",
+      "description": "India's No. 1 offspinner talks to Manjrekar on his form abroad, injuries and more | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29102228/fighting-my-own-benchmarks-r-ashwin",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219773_1296x729.jpg",
+      "publishedAt": "2020-04-25T03:00:09Z",
+      "content": "R Ashwin has said that he is \"fighting my own benchmarks\" because his Test performances overseas are being measured against his heroics in India. Despite being the country's best long-form spinner in… [+3347 chars]"
+    }
+  ]
+}
